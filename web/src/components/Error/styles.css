@@ -1,0 +1,12 @@
+.error {
+  display: flex;
+  align-items: center;
+
+  color: #d63447;
+  margin-top: 8px;
+  font-size: 14px;
+}
+
+.error svg {
+  margin-right: 6px;
+}
