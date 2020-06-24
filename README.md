@@ -17,4 +17,4 @@
   <br />
   <br />
   <br />
-  ![Farmers Market Finder Demo](.github/web.mp4)
+  [![Farmers Market Finder Demo](.github/web.mp4)]
