@@ -18,9 +18,11 @@
   <br />
   <br />
  <p align="center">
-    <iframe width="560" height="315"
+    <iframe 
+      width="560"
+      height="315"
       src="./.github/web.mp4" 
       frameborder="0" 
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen></iframe>
+      allowfullscreen />
   </p>
