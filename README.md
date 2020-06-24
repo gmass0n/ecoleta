@@ -10,7 +10,7 @@
   In WEB people can register collect points, and in Mobile can see all collect points registereds and contact the responsible of collect point.
   <br />
   <br />
-  This project was development with <strong>Typescript</strong>, <strong>EXPO</strong> and others technologies.
+  This project was development with Typescript, Expo CLI and others technologies.
   <br />
   <br />
   <br />
