@@ -18,7 +18,9 @@
   <br />
   <br />
  <p align="center">
-  <video width="320" height="240" controls>
-    <source src="./.github/web.mp4" type="video/mp4">
-  </video>
+    <iframe width="560" height="315"
+      src="./.github/web.mp4" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen></iframe>
   </p>
