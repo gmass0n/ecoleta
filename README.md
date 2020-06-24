@@ -4,7 +4,6 @@
   </a>
   <h3 align="center">Ecoleta WEB & Mobile</h3>
   <p align="center">
-    Application developed in Next Level Week 1.0
   <br />
   <br />
     This project can facilitate the recycling and reuse process, where it establishes a direct connection with companies that collect waste to people who need to dispose of this waste.
