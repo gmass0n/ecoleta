@@ -7,7 +7,10 @@
   Application developed in Next Level Week 1.0
   <br />
   <br />
-  In WEB people can register collect points, and in Mobile can see all collect points registereds and contact the responsible of collect point.
+  This project can facilitate the recycling and reuse process, where it establishes a direct connection with companies that collect waste to people who need to dispose of this waste.
+  <br />
+  <br />
+  In WEB companies can <strong>register collect points</strong>, and in Mobile people can <strong>see all collect points registereds</strong> in a map and <strong>contact the responsible</strong>.
   <br />
   <br />
   This project was development with Typescript, Expo CLI and others technologies.
