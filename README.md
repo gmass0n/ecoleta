@@ -18,7 +18,7 @@
   <br />
   <br />
  <p align="center">
-  <a href="https://github.com/gmass0n/ecoleta">
-    <img src="./.github/web-mobile.jpeg" alt="Main" height="350">
-  </a>
+  <video width="320" height="240" controls>
+    <source src="./.github/web.mp4" type="video/mp4">
+  </video>
   </p>
