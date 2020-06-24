@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gmass0n/ecoleta">
-    <img src="./.github/ecoleta.png" alt="Ecoleta">
+    <img src="./.github/ecoleta.png" alt="Ecoleta" width="200">
   </a>
   <h3 align="center">Ecoleta WEB & Mobile</h3>
   <p align="center">
